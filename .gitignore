@@ -1,3 +1,11 @@
+99_old/
+Einwohner_Data/
+GeoDaten/
+Immobilien_Data/
+Nachfrage/
+OSM_Data/
+WLP/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
