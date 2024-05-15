@@ -5,6 +5,7 @@ Immobilien_Data/
 Nachfrage/
 OSM_Data/
 WLP/
+Processed_WLP/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
