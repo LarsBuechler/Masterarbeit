@@ -6,6 +6,8 @@ Nachfrage/
 OSM_Data/
 WLP/
 Processed_WLP/
+Test_Data/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
